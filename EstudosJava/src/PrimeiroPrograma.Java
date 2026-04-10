@@ -1,4 +1,4 @@
-public class PrimeiroProgram {
+public class PrimeiroPrograma {
 
 }
 public static void main(String[] args) {
