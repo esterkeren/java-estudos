@@ -1,5 +1,3 @@
-package EstudosJava.exercicios; 
-
 import java.util.Scanner;
 
 public class TesteScanner {

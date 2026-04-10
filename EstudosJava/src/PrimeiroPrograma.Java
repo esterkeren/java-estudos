@@ -1,6 +1,7 @@
 public class PrimeiroPrograma {
 
-public static void main(String[] args) {
-    System.out.println("Funcionando!");
-}
+    public static void main(String[] args) {
+        System.out.println("Funcionando!");
+    }
+
 }
